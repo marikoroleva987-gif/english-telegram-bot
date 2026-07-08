@@ -12,7 +12,8 @@ from telegram.ext import (
 )
 
 import os
-TOKEN = os.getenv("TOKEN")CHAT_ID = 407552647
+TOKEN = os.getenv("TOKEN")
+CHAT_ID = 407552647
 
 # Глобальные переменные для учета теста
 current_word = None
