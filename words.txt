@@ -178,3 +178,201 @@ recycle | Перерабатывать | recycle plastic bottles
 wildlife | Дикая природа, дикие животные | protect wildlife
 crops | Сельскохозяйственные культуры, урожай | grow crops
 injure | Ранить, травмировать | injure your leg
+come up with | Придумать, найти (идею, решение) | come up with a plan
+whether | Ли, независимо от того | whether it's true
+think of | Думать о, придумывать | think of an idea
+lack of green space | Недостаток зеленых зон | lack of green space in cities
+refuse | Отказываться | refuse to help
+allow | Позволять | allow children to play
+warn | Предупреждать | warn someone about the danger
+provide | Обеспечивать, предоставлять | provide useful information
+persuade | Убеждать | persuade someone to stay
+loans | Займы, кредиты | take out a loan
+advise | Советовать | advise someone to wait
+install | Устанавливать | install new software
+consider | Рассматривать, обдумывать | consider moving abroad
+avoid | Избегать | avoid making mistakes
+unless | Если не | unless you hurry
+risk | Рисковать | risk losing everything
+admit | Признавать | admit your mistake
+deny | Отрицать | deny the accusation
+imagine | Представлять | imagine living by the sea
+fancy | Хотеть, быть не против (брит.) | fancy going out tonight
+agree | Соглашаться | agree to the proposal
+refuse | Отказываться | refuse to answer
+arrange | Организовывать, договариваться | arrange a meeting
+manage | Справляться, суметь | manage to finish on time
+fail | Не суметь, потерпеть неудачу | fail to pass the exam
+threaten | Угрожать | threaten to leave
+deserve | Заслуживать | deserve a reward
+afford | Позволить себе | afford to buy a car
+tend | Иметь тенденцию | tend to worry too much
+force | Заставлять | force someone to apologize
+enable | Давать возможность | enable people to work remotely
+in some kind of way | Каким-то образом | help in some kind of way
+stunning | Потрясающий, великолепный | a stunning view
+pretend | Притворяться | pretend to be asleep
+fake | Подделывать, притворяться | fake a smile
+get carried away | Увлечься, потерять контроль | get carried away with excitement
+get in touch | Связаться | get in touch with me
+get it | Понять | I finally get it
+get on someone's nerves | Действовать кому-то на нервы | his voice gets on my nerves
+get someone's attention | Привлечь чье-то внимание | get the teacher's attention
+get some rest | Отдохнуть | get some rest after work
+get straight to the point | Перейти сразу к делу | get straight to the point
+get the feeling | Почувствовать, сложилось впечатление | get the feeling that something is wrong
+get to do something | Получить возможность что-то сделать | get to travel a lot
+get together | Собраться вместе | get together with friends
+time flies | Время летит | time flies when you're having fun
+suddenly | Внезапно | suddenly it started raining
+facilities | Удобства, объекты инфраструктуры | sports facilities
+funding | Финансирование | receive government funding
+inspire | Вдохновлять | inspire young people
+add | Добавлять | add some sugar
+hairnet | Сетка для волос | wear a hairnet
+knead | Месить (тесто) | knead the dough
+loaf | Буханка | a loaf of bread
+oven | Духовка | bake it in the oven
+tin | Форма для выпечки | a cake tin
+yeast | Дрожжи | add some yeast
+competitive | Конкурентоспособный, соревновательный | a competitive market
+range (of sports) | Разнообразие (видов спорта) | a wide range of sports
+eyesight | Зрение | have good eyesight
+assignment | Задание | finish the assignment
+damages | Ущерб, повреждения | pay for the damages
+destroying | Разрушение, уничтожение | destroying the environment
+reduce | Уменьшать, сокращать | reduce pollution
+accuracy | Точность | improve accuracy
+mastering | Освоение | mastering a new skill
+express | Выражать | express your opinion
+pick up | Освоить, подхватить (навык, язык) | pick up a new language
+struggle with | Испытывать трудности с | struggle with grammar
+impress | Производить впечатление | impress the interviewer
+belong | принадлежать | belong to a club
+survey | опрос | conduct a survey
+exactly | именно, точно | That's exactly what I meant.
+avoid | избегать | avoid mistakes
+expectations | ожидания | meet expectations
+demands | требования | meet customer demands
+supply | поставлять; запас | supply fresh water
+survive | выживать | survive a difficult situation
+efficient | эффективный | an efficient worker
+respond | отвечать, реагировать | respond quickly
+rapidly | быстро | change rapidly
+relate | относиться, связывать | relate to the topic
+meet the needs | удовлетворять потребности | meet the needs of customers
+resemble | быть похожим | resemble your father
+aroused | вызванный, пробужденный | aroused my curiosity
+disgust | вызывать отвращение | disgust the audience
+turn into | превращаться в | turn into a butterfly
+according | согласно | according to the report
+suffer | страдать | suffer from stress
+suspicious | подозрительный | be suspicious of strangers
+be content | быть довольным | be content with your life
+irritated | раздражённый | feel irritated
+behavior | поведение | good behavior
+drive away | прогонять, отпугивать | drive away birds
+unpleasant | неприятный | an unpleasant smell
+pleasant | приятный | a pleasant surprise
+tend to be | иметь тенденцию быть | tend to be shy
+hopeless | безнадёжный | feel hopeless
+anxious | тревожный | feel anxious about the exam
+excited | взволнованный | be excited about the trip
+lonely | одинокий | feel lonely
+embarrassed | смущённый | feel embarrassed
+surroundings | окружение | enjoy the surroundings
+cover up | скрывать | cover up the truth
+compassion | сострадание | show compassion
+enormous | огромный | an enormous difference
+be known for | быть известным благодаря | be known for its beaches
+bring out | выявлять, раскрывать | bring out the best in people
+oppressive | гнетущий | oppressive heat
+revert | возвращаться | revert to the original plan
+terrifying | ужасающий | a terrifying experience
+caption | подпись | write a caption
+recognizable | узнаваемый | easily recognizable
+essential | необходимый | essential skills
+hold | проводить (мероприятие) | hold a meeting
+origins | происхождение | the origins of the language
+trace back | прослеживаться до | trace back to ancient times
+intentionally | намеренно | do it intentionally
+misspelling | орфографическая ошибка | correct a misspelling
+rise above the rest | выделяться среди остальных | rise above the rest
+go mainstream | стать массовым | go mainstream
+attract | привлекать | attract attention
+engagement | вовлечённость | increase customer engagement
+transmit | передавать | transmit information
+dot | точка | a dot on the map
+dash | тире | use a dash
+regard | считать, рассматривать | regard as important
+represent | представлять | represent your country
+manual | руководство, инструкция | read the manual
+stated | заявленный | as stated above
+barely | едва | barely visible
+invent | изобретать | invent a new device
+obvious | очевидный | an obvious mistake
+advisor | советник | ask your advisor
+habit | привычка | develop a good habit
+possible | возможный | as soon as possible
+debt | долг | pay off a debt
+savings account | сберегательный счёт | open a savings account
+ideally | в идеале | ideally, you should start early
+high-interest | с высоким процентом | a high-interest savings account
+break his neck | свернуть себе шею | He almost broke his neck.
+apply | подавать заявку; применять | apply for a job
+awesome | потрясающий | an awesome idea
+threshold payment | пороговый платёж | make a threshold payment
+manually | вручную | enter the data manually
+pile | куча | a pile of books
+bill | счёт | pay the bill
+commitment | обязательство | make a commitment
+specific | конкретный | a specific goal
+pocket | карман | put it in your pocket
+float | плавать; держаться на воде | float on water
+shield | защищать; щит | shield your eyes from the sun
+dull | скучный; тусклый | The movie was dull.
+tips | советы; чаевые | Here are some useful tips for learning English.
+anxious | тревожный; обеспокоенный | She was anxious about the exam.
+cheerful | весёлый; жизнерадостный | He is always cheerful in the morning.
+enjoyable | приятный; доставляющий удовольствие | We had an enjoyable evening.
+extraordinary | необыкновенный; выдающийся | She has an extraordinary talent.
+unique | уникальный | Every person is unique.
+homesick | тоскующий по дому | I felt homesick after moving abroad.
+lively | оживлённый; энергичный | It's a lively city.
+peaceful | спокойный; мирный | We spent a peaceful weekend in the countryside.
+to drop out | бросить (учёбу и т.п.) | He decided to drop out of college.
+content | довольный | She felt content after dinner.
+satisfied | удовлетворённый | I'm satisfied with the result.
+content with | довольный чем-либо | He is content with his job.
+grateful | благодарный | I'm grateful for your help.
+thankful | благодарный | She was thankful for their support.
+to be grateful for | быть благодарным за | We are grateful for your kindness.
+delighted | в восторге; очень рад | I was delighted to see you.
+miserable | несчастный; жалкий | He felt miserable after the argument.
+discontented with | недовольный чем-либо | She is discontented with her salary.
+fed up with | сытый по горло; уставший от | I'm fed up with this weather.
+to scold | ругать | My mother scolded me for being late.
+to achieve | достигать | She achieved her goals.
+to judge | судить; оценивать | Don't judge people by their appearance.
+lose touch with | потерять связь с | I lost touch with my school friends.
+get on really well | очень хорошо ладить | We get on really well.
+spend time with | проводить время с | I love spending time with my family.
+hang out | тусоваться; проводить время | We usually hang out after school.
+keep in touch with | поддерживать связь с | We still keep in touch with each other.
+catch up with | наверстать; встретиться и обменяться новостями | Let's catch up this weekend.
+get together | собираться вместе | Our family gets together every Christmas.
+get to know | познакомиться; узнать лучше | It takes time to get to know new people.
+see a lot of | часто видеться с | I see a lot of my cousins.
+meet up with | встретиться с | I'm going to meet up with my friends tonight.
+adult | взрослый | Adults have many responsibilities.
+split up | расстаться; разделиться | They split up last year.
+dishwasher | посудомоечная машина | The dishwasher saves a lot of time.
+vacuum cleaner | пылесос | I bought a new vacuum cleaner yesterday.
+fan | вентилятор | Turn on the fan—it's hot in here.
+kettle | чайник | The kettle is boiling.
+complain about | жаловаться на | He always complains about his job.
+save time | экономить время | Online shopping can save time.
+to carry it around | носить это с собой | I don't want to carry it around all day.
+to sweat | потеть | I always sweat when it's hot.
+fill ... with | наполнить ... чем-либо | Fill the bottle with water.
+turn down / turn up | убавить / прибавить (звук, свет и т.п.) | Please turn down the music. / Turn up the volume, please.
