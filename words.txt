@@ -376,3 +376,97 @@ to carry it around | носить это с собой | I don't want to carry i
 to sweat | потеть | I always sweat when it's hot.
 fill ... with | наполнить ... чем-либо | Fill the bottle with water.
 turn down / turn up | убавить / прибавить (звук, свет и т.п.) | Please turn down the music. / Turn up the volume, please.
+power cuts | отключения электроэнергии | We had several power cuts during the storm.
+appliances | бытовые приборы | All the kitchen appliances are new.
+nightmare | кошмар | Losing my passport was a nightmare.
+broke down | сломался | My car broke down on the way home.
+take over | взять под контроль; перенять | She will take over the project next month.
+urban | городской | Many people prefer urban life.
+demolished | снесённый; разрушенный | The old building was demolished last year.
+citizens | граждане | The citizens voted in the election.
+unused | неиспользуемый | The room has been unused for years. (у вас было unuse, правильно — unused)
+industrial | промышленный | This is an industrial area.
+wasteland | пустырь; заброшенная территория | The old factory became a wasteland. (у вас было wastlend, правильно — wasteland)
+allotments | садовые участки | Many families grow vegetables in their allotments.
+mural | настенная роспись; мурал | The mural attracts many tourists.
+amused | развеселённый; позабавленный | She looked amused by the joke.
+worth | стоящий; достойный | This book is worth reading.
+walk along | идти вдоль | We walked along the river.
+definitely | определённо | I will definitely come to your party.
+unfortunately | к сожалению | Unfortunately, we missed the bus.
+crime | преступление | Crime has decreased in the city.
+attack | нападение | The police are investigating the attack.
+gang | банда | The gang was arrested by the police.
+robber | грабитель | The robber escaped before the police arrived.
+theft | кража | He was arrested for theft.
+trial | судебный процесс | The trial lasted three weeks.
+victim | жертва | The victim called the police immediately.
+witness | свидетель | The witness gave important information.
+break into | вломиться; проникнуть со взломом | Someone tried to break into our house.
+claim | утверждать; заявлять | He claimed that he was innocent.
+free | освобождать | The police decided to free the prisoner.
+get away | сбежать; скрыться | The thief managed to get away.
+to punch | ударить кулаком | He punched the man in the face.
+court | суд | The case will be heard in court.
+proof | доказательство | Do you have any proof of your claim?
+prove | доказывать | She couldn't prove that she was right.
+to sentence to | приговорить к | The judge sentenced him to five years in prison.
+burglar | взломщик; квартирный вор | The burglar stole several valuable paintings.
+testimony | показания (в суде) | Her testimony helped solve the case.
+whatever the reason is | какой бы ни была причина | Whatever the reason is, we need to solve the problem.
+whoever | кто бы ни; любой, кто | Whoever calls, tell them I'm busy.
+however | однако; как бы ни | However hard she tried, she couldn't finish on time.
+whenever | когда бы ни; всякий раз, когда | You can call me whenever you need help.
+wherever | где бы ни; куда бы ни | Wherever you go, I will support you.
+whatever | что бы ни; всё, что | You can choose whatever you like.
+dress up | наряжаться; переодеваться | The children dressed up as superheroes for the party.
+pots | горшки; кастрюли | She planted flowers in colorful pots.
+whole | целый; весь | I spent the whole day studying.
+warehouse | склад | The goods are stored in a large warehouse.
+overpower | одолеть; пересилить; подавить силой | The police managed to overpower the suspect.
+guard | охранник; охранять | A guard was standing at the entrance.
+passer-by | прохожий | A passer-by helped the injured cyclist.
+escape | сбежать; избежать; побег | The prisoner tried to escape from jail.
+guilty | виновный; виноватый | He felt guilty about telling a lie.
+get engaged | обручиться | They got engaged last summer.
+proposal | предложение (руки и сердца) | She said yes to his proposal.
+nephew | племянник | My nephew is five years old.
+award | награда | She won an award.
+abroad | за границей | He studies abroad.
+stare | пристально смотреть | Don't stare at people.
+suffer | страдать | Many people suffer from stress.
+shoot (film) | снимать (фильм, видео) | They are shooting a new movie.
+to knit | вязать | My grandmother likes to knit.
+increase | увеличиваться / увеличивать | Prices increase every year.
+becoming easier | становиться легче | Learning English is becoming easier.
+decrease | уменьшаться / уменьшать | The population is decreasing.
+went down | снизился / упал | The temperature went down.
+reduce | сокращать / уменьшать | We need to reduce costs.
+to be rising | расти / повышаться | House prices are rising.
+went up | вырос / повысился | The price went up yesterday.
+replace | заменять | We need to replace the old computer.
+to be falling | падать / снижаться | The number is falling.
+getting worse | становиться хуже | The weather is getting worse.
+getting better | становиться лучше | My English is getting better.
+getting harder | становиться труднее | The exam is getting harder.
+absorb | поглощать / впитывать | Plants absorb water.
+episode | эпизод (серии) | I watched the last episode.
+plot | сюжет | The plot was very interesting.
+already | уже | I've already finished my homework.
+yet | еще (в вопросах и отрицаниях) | Have you finished yet?
+booth | кабина / киоск / стенд | We bought tickets at the ticket booth.
+evil | злой / зло | The villain is pure evil.
+homeless people | бездомные люди | The city helps homeless people.
+stress (исправлено: у вас было stred) | стресс | Too much stress is unhealthy.
+countryside | сельская местность | I love walking in the countryside.
+escape | сбежать / убежать / избежать | We escaped from the city for the weekend.
+compare | сравнивать | Let's compare the two cities.
+cycle lane (не cycle line) | велосипедная дорожка | Always use the cycle lane.
+landmark | достопримечательность | The Eiffel Tower is a famous landmark.
+neighbourhood | район (города) | I live in a quiet neighbourhood.
+outdoor café (не outdore cafe) | летнее кафе / кафе на открытом воздухе | We had lunch at an outdoor café.
+pedestrian street | пешеходная улица | Cars are not allowed on this pedestrian street.
+skyline | линия горизонта города / городской силуэт | The city's skyline looks amazing at night.
+square | площадь | Let's meet in the main square.
+suburb | пригород | They live in a suburb of London.
+traffic jam | пробка на дороге | We were late because of a traffic jam.
