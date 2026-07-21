@@ -470,3 +470,106 @@ skyline | линия горизонта города / городской сил
 square | площадь | Let's meet in the main square.
 suburb | пригород | They live in a suburb of London.
 traffic jam | пробка на дороге | We were late because of a traffic jam.
+tend to do something | иметь тенденцию делать что-либо | People tend to spend more time indoors in winter.
+indeed | действительно | It was indeed a great experience.
+within | внутри; в пределах | The museum is within walking distance.
+extremely | чрезвычайно | The weather was extremely cold.
+complicate | усложнять | Don't complicate the situation.
+hilly | холмистый | Scotland has many hilly areas.
+site | место; участок | This is a popular tourist site.
+back across | обратно через | We walked back across the bridge.
+imposing | внушительный; величественный | The castle is an imposing building.
+caters | обслуживает; удовлетворяет потребности | The restaurant caters to families.
+put on exhibition | выставлять на выставке | The painting was put on exhibition last month.
+adventurous | любящий приключения | She is an adventurous traveler.
+contemporary | современный | The gallery features contemporary art.
+residential | жилой | They live in a quiet residential area.
+overlook | выходить на; иметь вид на | The hotel overlooks the sea.
+picturesque | живописный | We visited a picturesque village.
+harbour | гавань; порт | The boats returned to the harbour.
+outskirts | окраина | They live on the outskirts of the city.
+notice | замечать | I didn't notice the mistake.
+diversity | разнообразие | The city is known for its cultural diversity.
+block of flats | многоквартирный дом | She lives in a block of flats.
+ceiling | потолок | The ceiling is very high.
+central heating | центральное отопление | The house has central heating.
+cottage | коттедж; небольшой загородный дом | They rented a cozy cottage.
+detached house | отдельно стоящий дом | My grandparents own a detached house.
+patio | внутренний дворик; патио | We had dinner on the patio.
+roof | крыша | The roof needs repairing.
+staircase | лестница | Be careful on the staircase.
+terraced house | дом в ряду смежных домов | They bought a terraced house.
+cellar | подвал | We keep wine in the cellar.
+semi-detached house | дом на две семьи | They live in a semi-detached house.
+tiles | плитка | The bathroom is covered with white tiles.
+attic | чердак | Old books were stored in the attic.
+messy | неопрятный; грязный | His room is always messy.
+advantages | преимущества | There are many advantages to living in the countryside.
+disadvantages | недостатки | One of the disadvantages is the long commute.
+tidy | аккуратный; опрятный | Please keep your room tidy.
+discover | открывать; обнаруживать | We discovered a beautiful beach.
+approve | одобрять | My parents approve of my decision.
+election | выборы | The election will take place next month.
+flood | наводнение | The flood damaged many houses.
+boredom | скука | He started reading out of boredom.
+evolved | развился; эволюционировал | Humans evolved over millions of years.
+tiny | крошечный | They live in a tiny apartment.
+inactive | неактивный | The volcano has been inactive for centuries.
+disaster | катастрофа; бедствие | The earthquake was a terrible disaster.
+earthquake | землетрясение | The earthquake was felt across the region.
+strike | забастовка | The workers went on strike.
+overrated | переоцененный | I think that movie is overrated.
+underrated | недооцененный | This restaurant is underrated.
+industrious | трудолюбивый | She is an industrious student.
+curiosity | любопытство | Curiosity helps people learn new things.
+necessity | необходимость | Water is a basic necessity of life.
+consumers | потребители | Consumers expect high-quality products.
+in particular | в частности | I enjoy sports, in particular, football.
+supply | снабжать; поставка | The company supplies fresh fruit to supermarkets.
+quality | качество | This product is known for its high quality.
+quantity | количество | We need a larger quantity of water.
+cause | причина; вызывать | Smoking can cause serious health problems.
+demand | спрос; требовать | There is a high demand for electric cars.
+interest rates | процентные ставки | The bank increased its interest rates.
+discourage | отговаривать; препятствовать | High prices discourage people from buying new cars.
+charge (for) | взимать плату | The hotel charges extra for breakfast.
+clear up | проясняться; выздоравливать | The weather cleared up by the afternoon.
+take out | вынимать; брать (кредит); выводить | She took out her wallet.
+call someone back | перезвонить кому-либо | I'll call you back after the meeting.
+shout down | перекричать; заставить замолчать криками | The speaker was shouted down by the crowd.
+join in | присоединяться | Everyone joined in the celebration.
+possess | владеть | He possesses great talent.
+put away | убирать; откладывать | Please put your toys away.
+throw away | выбрасывать | Don't throw away these old photos.
+put ... back | положить обратно | Please put the book back on the shelf.
+give out | раздавать; закончиться | Volunteers gave out free water.
+hand out | раздавать | The teacher handed out the worksheets.
+deal with | иметь дело с; справляться | She deals with customer complaints.
+hand in | сдавать | Don't forget to hand in your homework.
+submit | подавать; представлять | You must submit the report by Friday.
+remove | удалять | Please remove your shoes before entering.
+earn | зарабатывать | She earns enough to support her family.
+get back | возвращаться; получить обратно | I got my money back yesterday.
+pale | бледный | You look very pale today.
+nasty cut | глубокий/неприятный порез | He got a nasty cut on his hand.
+stiff | затёкший; негнущийся | My neck feels stiff this morning.
+strained a muscle | потянуть мышцу | I strained a muscle while exercising.
+keep getting | постоянно получать; всё время заболевать | I keep getting headaches.
+food poisoning | пищевое отравление | He had food poisoning after eating seafood.
+bruise | синяк | She has a bruise on her leg.
+get out of breath | запыхаться | I get out of breath when I run.
+sore throat | боль в горле | I've got a sore throat.
+going round | распространяться (о болезни) | A cold is going round the office.
+bags under my eyes | мешки под глазами | I have bags under my eyes because I didn't sleep well.
+rash | сыпь | The child developed a rash.
+bone | кость | He broke a bone in his arm.
+attractive | привлекательный | She has an attractive smile.
+insecure | неуверенный в себе | He feels insecure about his appearance.
+anxiety | тревога | Anxiety can affect your health.
+aloof | отстранённый; холодный | He seems aloof, but he's actually kind.
+unbothered | невозмутимый; безразличный | She looked completely unbothered.
+attached quickly | быстро привязался | The puppy became attached quickly to its new owner.
+longing | сильное желание; тоска | She felt a longing to see her family.
+devoted | преданный | He is devoted to his children.
+affectionate | ласковый | Cats can be very affectionate pets.
+are being in the pocket | ударить по карману | Buying a new car can really be in the pocket.
